@@ -1,1 +1,2 @@
-# test
+# sample
+my first repository!!!
